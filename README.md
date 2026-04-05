@@ -1,4 +1,4 @@
-## OpenWrt firmware for 360T7
+## immortalwrt padavanonly firmware for 360T7
 
 # 稳定固件
 
