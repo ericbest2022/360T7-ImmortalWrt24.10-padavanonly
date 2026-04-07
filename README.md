@@ -4,7 +4,7 @@
 
 # config 配置文件
 
-    借用【sagehou/360T7-ImmortalWrt】，config 添加了passwall
+    导入【sagehou/360T7-ImmortalWrt】，config 添加了passwall
     https://github.com/sagehou/360T7-ImmortalWrt
 
 
